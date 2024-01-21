@@ -47,11 +47,11 @@ const aboutData = [
     title: 'education',
     info: [
       {
-        title: 'Master of Computer Science - IUB Bahawalpur',
+        title: 'Master of Computer Science',
         stage: '2023',
       },
       {
-        title: 'Bachelor of Computer Science - IUB Bahawalpur',
+        title: 'Bachelor of Computer Science',
         stage: '2020',
       },
     ],
