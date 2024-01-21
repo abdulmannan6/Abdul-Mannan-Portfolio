@@ -126,7 +126,7 @@ const About = () => {
             initial="hidden"
             animate="show"
             exit='hidden'
-            className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0">With a heavy emphasis on "Progressive Enhancement" I bring ideas to life. As a dedicated freelancer, I'm ready to turn your vision into a digital masterpiece – let's build something extraordinary together.</motion.p>
+            className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0">With a heavy emphasis on "Progressive Enhancement" I bring ideas to life. As a dedicated full stack web developer, I'm ready to turn your vision into a digital masterpiece – let's build something extraordinary together.</motion.p>
           {/* counters */}
           <motion.div
             variants={fadeIn("right", 0.6)}
